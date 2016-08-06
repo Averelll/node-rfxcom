@@ -13,7 +13,7 @@ To install
   npm install rfxcom
 </pre>
 
-Depends on serialport 2.0.0+ and queue ^4.0.0
+Depends on serialport 4.0.0+ and queue ^4.0.0
 
 To Use
 ------
