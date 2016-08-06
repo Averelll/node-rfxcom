@@ -4,7 +4,7 @@
   "author": "Kevin McDermott <kevin@bigkevmcd.com>",
   "dependencies": {
     "queue": "^4.0.0",
-    "serialport": "2.x"
+    "serialport": "4.x"
   },
   "main": "rfxcom.js",
   "devDependencies": {
